@@ -1,8 +1,4 @@
-.container {
+.app {
   text-align: center;
-}
-
-.content{
-  background-color: #212121;
-  height: 20em;
+  background-color: azure;
 }
